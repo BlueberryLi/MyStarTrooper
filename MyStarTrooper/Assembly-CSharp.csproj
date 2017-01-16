@@ -45,6 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Scripts\CameraTrack.cs" />
+     <Compile Include="Assets\_Scripts\MissileAction.cs" />
+     <Compile Include="Assets\_Scripts\MissileStarter.cs" />
      <Compile Include="Assets\_Scripts\PlayerController.cs" />
      <Compile Include="Assets\_Scripts\Rotator.cs" />
      <None Include="Assets\Shaders\LightmapOnlyShader.shader" />
